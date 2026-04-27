@@ -42,7 +42,7 @@ Questo progetto si concentra sul confronto delle prestazioni tra l'**algoritmo d
 * `Report.pdf`: Un'analisi comparativa dettagliata degli algoritmi e dei dati cittadini (nodi e archi).
 
 ### Note Progettuali
-Questa repository è stata creata come parte di un progetto universitario. L'obiettivo principale è analizzare come la complessità del grafo (nodi e archi) influenzi l'efficienza dei diversi algoritmi di ricerca.
+Questa repository è stata creata come parte di un progetto universitario.l'obiettivo principale è analizzare come la complessità del grafo (nodi e archi) influenzi l'efficienza dei diversi algoritmi di ricerca.
 
 ---
 
