@@ -66,3 +66,5 @@ Questa repository è stata creata come parte di un progetto universitario.l'obie
 
 ### プロジェクト・ノート
 このリポジトリは、大学の課題の一環として作成されました。主な目的は、グラフの複雑さ（ノードとエッジ）がさまざまな探索アルゴリズムの効率にどのように影響するかを分析することです。
+
+author: Luca Gonella
